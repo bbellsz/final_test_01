@@ -1,0 +1,3 @@
+conda create -n pytest python=3.8
+activate pytest
+pip install -r requirements.txt
